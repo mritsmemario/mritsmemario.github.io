@@ -1,0 +1,62 @@
+html {
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    background-image: linear-gradient(#0f79f1, #1360a8, #350da1);
+}
+
+.h1xd {
+    font-size: 100;
+    font-family:cursive;
+    color:#350da1;
+}
+
+.btn1 {
+    width: 200;
+    height: 50;
+    font-size: large;
+    background-image: linear-gradient(#680ecf, #4f1168, #2e144e);
+    font-family: cursive;
+    border-radius: 3.5%;
+}
+
+.btn2 {
+    width: 200;
+    height: 50;
+    font-size: large;
+    background-image: linear-gradient(#680ecf, #4f1168, #2e144e);
+    font-family: cursive;
+    border-radius: 3.5%;
+}
+
+.test {
+    width: 200;
+    height: 50;
+    font-size: large;
+    background-image: linear-gradient(#680ecf, #4f1168, #2e144e);
+    font-family: cursive;
+    border-radius: 3.5%;
+}
+
+.sites {
+   padding: 1%;
+   font-size: 50;
+   font-family: cursive;
+}
+
+.Google {
+    color: yellow;
+}
+
+.InstallGoogle {
+    color: yellowgreen;
+}
+
+.Facebook {
+    color: blue;
+}
+
+.YouTube {
+    color: red;
+}
